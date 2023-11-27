@@ -1,5 +1,4 @@
 # myrepo
-Repository for testing my Git/GitHub setup
-A line I wrote on my local computer  
+Repository ffor the testdrive
 
-This is a line from RStudio
+Analysis of the stuff
